@@ -1,9 +1,9 @@
 <!-- HEADINGS -->
 
-## Mi Primer HTML
+## My first `HTML`
 ---
 
-### Descripcion 
+### Description
 
 - My first creating in `HTML` 
 
